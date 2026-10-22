@@ -82,18 +82,20 @@
 
 <br/>
 
-## 🔮 GitHub Activity & Telemetry
+## 🔮 Tech Stack Overview
 
 <div align="center">
 
-  <!-- Анимированный интерактивный граф активностей без внешней серверной зависимости -->
-  <img src="https://metacall.github.io/github-readme-stats/api?username=dots-q6&show_icons=true&theme=halloween" alt="Activity Stats" />
+  <!-- Вся палитра твоих технологий в едином анимированном блоке -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,go,cpp,py,java,nextjs,react,svelte,fastapi,spring,flutter,docker,linux,azure,postgres,redis,git&theme=dark" />
+  </a>
 
 </div>
 
 <br/>
 
-<!-- Анимированная оранжево-белая 3D подпись на футере -->
+<!-- Анимированная оранжево-белая подпись на футере -->
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff,ff5500,000000&height=120&section=footer" width="100%" />
