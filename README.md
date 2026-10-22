@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Градиентный Хэллоуин-шапка баннер с твоим ником -->
+  <!-- Градиентная Хэллоуин-шапка с твоим ником -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,ff5500,ffffff&height=220&section=header&text=dots-q6&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%" />
 
   <br/>
@@ -86,14 +86,8 @@
 
 <div align="center">
 
-  <!-- Динамические Halloween-карточки статистики -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dots-q6&show_icons=true&theme=halloween&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dots-q6&layout=compact&theme=halloween&hide_border=true&hide=html,css&card_width=380" />
-
-  <br/><br/>
-
-  <!-- Анимированный график коммитов в Halloween теме -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dots-q6&theme=halloween&hide_border=true" />
+  <!-- Анимированный интерактивный граф активностей без внешней серверной зависимости -->
+  <img src="https://metacall.github.io/github-readme-stats/api?username=dots-q6&show_icons=true&theme=halloween" alt="Activity Stats" />
 
 </div>
 
