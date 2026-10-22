@@ -1,29 +1,24 @@
 <div align="center">
 
-  <!-- Анимированный Хэллоуин-баннер -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3a0007,ff5500,8000ff&height=220&section=header&text=WELCOME%20TO%20MY%20REPOSITORY&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%" />
-
-  <!-- Анимированный печатный текст -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF5500&center=true&vCenter=true&width=700&height=50&lines=Rust+%7C+Go+%7C+C%2B%2B+%7C+Erlang;System+%26+Backend+Developer;Docker+%7C+Linux+%7C+Azure+%7C+Next.js" alt="Typing SVG" />
-  </a>
+  <!-- Градиентный Хэллоуин-шапка баннер с твоим ником -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,ff5500,ffffff&height=220&section=header&text=dots-q6&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%" />
 
   <br/>
 
-  <!-- Счётчики в Хэллоуин-гамме -->
+  <!-- Счётчики и статусы -->
   <p align="center">
-    <a href="https://github.com/YOUR_GITHUB_USERNAME">
-      <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=VIEWS&color=ff5500&style=for-the-badge" />
+    <a href="https://github.com/dots-q6">
+      <img src="https://komarev.com/ghpvc/?username=dots-q6&label=PROFILE+VIEWS&color=ff5500&style=for-the-badge" />
     </a>
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=8000ff&logo=github" />
-    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=STARS&style=for-the-badge&color=ff0055&logo=star" />
+    <img src="https://img.shields.io/github/followers/dots-q6?label=FOLLOWERS&style=for-the-badge&color=ffffff&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/github/stars/dots-q6?label=STARS&style=for-the-badge&color=ff5500&logo=star&logoColor=white" />
   </p>
 
 </div>
 
 <br/>
 
-<!-- Разделитель -->
+<!-- Оранжево-белый анимированный разделитель -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
 
 <br/>
@@ -31,51 +26,53 @@
 ## 🎃 Programming Languages
 
 <p align="center">
-  <a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="55" height="55" alt="Rust" /></a>
+  <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" width="60" height="60" alt="Rust" /></a>
   &nbsp;&nbsp;
-  <a href="https://go.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="65" height="65" alt="Go" /></a>
+  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" width="60" height="60" alt="Go" /></a>
   &nbsp;&nbsp;
-  <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++" /></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" alt="C++" /></a>
   &nbsp;&nbsp;
   <a href="https://www.erlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-original.svg" width="55" height="55" alt="Erlang" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55" alt="Python" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="60" height="60" alt="Python" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55" alt="Java" /></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="60" height="60" alt="Java" /></a>
 </p>
 
 <br/>
 
-## 🕸️ Frameworks & Web
+## 🕷️ Frameworks & Ecosystem
 
 <p align="center">
-  <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="65" height="65" alt="Next.js" /></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" alt="Next.js" /></a>
   &nbsp;&nbsp;
-  <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55" alt="React" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" /></a>
   &nbsp;&nbsp;
-  <a href="https://svelte.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="55" height="55" alt="Svelte" /></a>
+  <a href="https://svelte.dev/"><img src="https://skillicons.dev/icons?i=svelte" width="60" height="60" alt="Svelte" /></a>
   &nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="55" height="55" alt="FastAPI" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="60" height="60" alt="FastAPI" /></a>
   &nbsp;&nbsp;
-  <a href="https://spring.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="55" height="55" alt="Spring" /></a>
+  <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" width="60" height="60" alt="Spring" /></a>
   &nbsp;&nbsp;
-  <a href="https://flutter.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="55" height="55" alt="Flutter" /></a>
+  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" width="60" height="60" alt="Flutter" /></a>
 </p>
 
 <br/>
 
-## 🦇 Infrastructure & Tools
+## 🦇 DevOps, Infrastructure & Databases
 
 <p align="center">
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60" alt="Docker" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60" alt="Linux" /></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux" /></a>
   &nbsp;&nbsp;
-  <a href="https://azure.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="60" height="60" alt="Azure" /></a>
+  <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" width="60" height="60" alt="Azure" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL" /></a>
   &nbsp;&nbsp;
-  <a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="60" height="60" alt="Redis" /></a>
+  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="60" height="60" alt="Redis" /></a>
+  &nbsp;&nbsp;
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" /></a>
 </p>
 
 <br/>
@@ -85,32 +82,26 @@
 
 <br/>
 
-## 🔮 GitHub Telemetry
+## 🔮 GitHub Activity & Telemetry
 
 <div align="center">
 
-  <!-- Карточки статистики в тёмно-оранжевых/фиолетовых Хэллоуин тонах -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=blood&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=blood&hide_border=true&hide=html,css&card_width=380" />
+  <!-- Динамические Halloween-карточки статистики -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dots-q6&show_icons=true&theme=halloween&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dots-q6&layout=compact&theme=halloween&hide_border=true&hide=html,css&card_width=380" />
 
   <br/><br/>
 
-  <!-- График коммитов Streak в теме Halloween (pumpkin/blood) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=halloween&hide_border=true" />
+  <!-- Анимированный график коммитов в Halloween теме -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dots-q6&theme=halloween&hide_border=true" />
 
 </div>
 
 <br/>
 
+<!-- Анимированная оранжево-белая 3D подпись на футере -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8000ff,ff5500,3a0007&height=120&section=footer" width="100%" />
-
-  <br/><br/>
-
-  <p align="center">
-    <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-FF5500?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-8000FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff,ff5500,000000&height=120&section=footer" width="100%" />
 
 </div>
