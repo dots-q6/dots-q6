@@ -5,13 +5,11 @@
 
   <br/>
 
-  <!-- Счётчики и статусы -->
+  <!-- Счётчики и статусы (все 3 белые) -->
   <p align="center">
-    <a href="https://github.com/dots-q6">
-      <img src="https://komarev.com/ghpvc/?username=dots-q6&label=PROFILE+VIEWS&color=ff5500&style=for-the-badge" />
-    </a>
-    <img src="https://img.shields.io/github/followers/dots-q6?label=FOLLOWERS&style=for-the-badge&color=ffffff&logo=github&logoColor=black" />
-    <img src="https://img.shields.io/github/stars/dots-q6?label=STARS&style=for-the-badge&color=ff5500&logo=star&logoColor=white" />
+    <img src="https://img.shields.io/badge/VIEWS-dots--q6-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff&color=ffffff" />
+    <img src="https://img.shields.io/github/followers/dots-q6?label=FOLLOWERS&style=for-the-badge&color=ffffff&logo=github&logoColor=black&labelColor=ffffff" />
+    <img src="https://img.shields.io/github/stars/dots-q6?label=STARS&style=for-the-badge&color=ffffff&logo=star&logoColor=black&labelColor=ffffff" />
   </p>
 
 </div>
@@ -74,24 +72,6 @@
   &nbsp;&nbsp;
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" /></a>
 </p>
-
-<br/>
-
-<!-- Разделитель -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" />
-
-<br/>
-
-## 🔮 Tech Stack Overview
-
-<div align="center">
-
-  <!-- Вся палитра твоих технологий в едином анимированном блоке -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,go,cpp,py,java,nextjs,react,svelte,fastapi,spring,flutter,docker,linux,azure,postgres,redis,git&theme=dark" />
-  </a>
-
-</div>
 
 <br/>
 
